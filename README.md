@@ -1,3 +1,3 @@
 # ZenFlow
 
-First react heavy app
+My personal Work Dashboard App built in React
